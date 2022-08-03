@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\bin\Debug\net6.0\MTech Interview.exe
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\bin\Debug\net6.0\MTech Interview.deps.json
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\bin\Debug\net6.0\MTech Interview.runtimeconfig.json
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\bin\Debug\net6.0\MTech Interview.dll
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\bin\Debug\net6.0\MTech Interview.pdb
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.dll
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\refint\MTech Interview.dll
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.pdb
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\MTech Interview.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\abner13macias\mtch_interview\MTech Interview\obj\Debug\net6.0\ref\MTech Interview.dll
